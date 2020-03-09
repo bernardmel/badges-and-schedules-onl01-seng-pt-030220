@@ -8,6 +8,6 @@ def batch_badge_creator(attendees)
 end
 
 def batch_badge_creator(name)
-  name = "Johnny"
+  name == "Johnny"
   "Hello, my name is #{"name"}."
 end
