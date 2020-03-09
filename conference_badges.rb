@@ -7,6 +7,6 @@ def batch_badge_creator(attendees)
   attendees = badges
   end
 
-def batch_badge_creator(creator == "Johnny")
+def batch_badge_creator(creator = "Johnny")
   "Hello, my name is #{creator}."
 end
