@@ -4,7 +4,7 @@ def badge_maker(name)
 end
 
 def batch_badge_creator(attendees)
-  attendees = badges
+  attendees.collect |name|
 end
 
 def batch_badge_creator
