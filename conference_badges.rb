@@ -6,7 +6,3 @@ end
 def batch_badge_creator(attendees)
   attendees.collect |name|
 end
-
-def batch_badge_creator
-
-end
